@@ -1,4 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Jeon%20Hyunjung&fontColor=ffffff&fontSize=40&animation=twinkling&fontAlign=80)
 ### Hi there 👋
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=hyunjungjeon&theme=highcontrast)](https://git.io/streak-stats) -->
 
 <!--
 **hyunjungjeon/hyunjungjeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
